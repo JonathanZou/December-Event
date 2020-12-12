@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/orderPage/orderPage",
+    "pages/serverFail/serverFail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#111210",
+    "navigationBarTitleText": "Jonathan Testing",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "cloud": true
+}

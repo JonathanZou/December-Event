@@ -1,0 +1,36 @@
+.wrapper{
+  background-color: #282832;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  border-radius: 20rpx;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20rpx;
+}
+.itemImage{
+  height: 200rpx;
+  width:240rpx;
+  border-radius: 25rpx;
+}
+
+.smallText {
+  padding-top: 10rpx;
+  margin-left: 20rpx;
+  font-size: 35rpx;
+  color: white;
+}
+.buttonText {
+  padding-top: 10rpx;
+  margin-left: 20rpx;
+  font-size: 35rpx;
+  color: white;
+}
+.smallWrapper{
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  border-radius: 20rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  background-color: lightgreen;
+  text-align: center;
+}

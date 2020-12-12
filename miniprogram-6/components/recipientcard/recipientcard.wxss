@@ -1,0 +1,74 @@
+.big-box{
+  margin-top: 15rpx;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  padding-right: 20rpx;
+  padding-left: 20rpx;
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+  background-color: #282832;
+  border-radius: 25rpx;
+  color: white;
+}
+.row-substitute{
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+.recipient-name {
+  font-size: 35rpx;
+  flex: 10 0 0;
+  align-self: center;
+  margin-right: 10rpx;
+}
+.recipient-grade {
+  font-size: 35rpx;
+  flex:0.5 0 0;
+  align-self: center;
+  margin-left: 10rpx;
+  margin-right: 10rpx;
+}
+.recipient-class {
+  font-size: 35rpx;
+  flex:0.5 0 0;
+  align-self: center;
+  margin-left: 10rpx;
+  margin-right: 15rpx;
+}
+.recipient-quantity {
+  font-size: 35rpx;
+  align-self: center;
+  flex:1.5 0 0;
+  margin-left: 20rpx;
+  margin-right: 5rpx;
+}
+.recipient-delete-button {
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  align-self: center;
+  text-align: center;
+  border-radius: 20rpx;
+  background-color: lightblue;
+  font-size: 25rpx;
+  margin-left: 5rpx;
+}
+.small-text{
+  color: white;
+  font-size: 35rpx;
+}
+.small-box{
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  border-radius: 20rpx;
+  margin-top: 20rpx;
+  margin-bottom: 10rpx;
+  background-color: lightskyblue;
+  align-self: center;
+  text-align: center;
+}
+.caution-text{
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  font-size: 27rpx;
+  color: #e64340;
+}
